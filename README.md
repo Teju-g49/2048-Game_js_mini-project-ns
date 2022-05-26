@@ -10,7 +10,7 @@ The game 2048 is played on a 4*4 -square grid with numbered tiles that slide smo
 # Visit the hosted link here 👇 :
   [Click here](https://2048gamens.netlify.app/)
 
-  image.png
+![image](https://user-images.githubusercontent.com/40845324/170442979-b9fe0ceb-2ba7-454a-aa42-b0137652a93a.png)
 
 
   ### By developing this game I learnt the following javaScript Methods:
